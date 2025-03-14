@@ -1,0 +1,1 @@
+{"players": [{"class": "Worker", "HP": 40}, {"class": "Procrastinator", "HP": 20}], "game": {"stages": "3", "current_stage": 1, "current_turn": 0, "enemies": [{"class": "PartialExam", "HP": 16}, {"class": "PartialExam", "HP": 17}]}}
